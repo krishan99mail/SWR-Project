@@ -24,13 +24,6 @@ Scientific Writing for Research Project -Overleaf LaTeX
 
 This repository contains the **IEEE-formatted scientific article** developed as part of the **SWR course and project activity** at UPT. The article reviews state-of-the-art **IoT-based air quality monitoring systems using LoRa-WAN**, proposes a novel architecture with **machine learning-enhanced calibration**, and targets **smart city applications**.
 
-The final grade consists of:
-- **50%** – Oral exam presentation
-- **50%** – Project article (this document)
-
-> **Plagiarism is strictly prohibited** – sanctioned per *Carta UPT*.
-
----
 
 ## Repository Contents
 
@@ -45,15 +38,3 @@ The final grade consists of:
 
 ## Article Structure (Week 7 – First Draft)
 
-```latex
-\section{Introduction}
-\section{Literature Review}
-    \subsection{Technological Foundations and System Architectures}
-    \subsection{Sensor Technologies and Measurement Capabilities}
-    \subsection{LoRa-WAN Communication Technology and Network Design}
-    \subsection{Data Management and Visualization Platforms}
-    \subsection{Deployment Strategies and Real-World Applications}
-    \subsection{Performance Evaluation and Validation Methodologies}
-    \subsection{Challenges and Limitations}
-\section{Conclusions}
-\section{Research Proposal}
