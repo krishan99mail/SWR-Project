@@ -36,5 +36,5 @@ This repository contains the **IEEE-formatted scientific article** developed as 
 
 ---
 
-## Article Structure (Week 7 – First Draft)
+## Article Structure (Week 10 – First Draft)
 
